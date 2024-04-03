@@ -1,0 +1,7 @@
+{
+	"command": [
+	  "curl",
+	  "https://gall.nl"
+	],
+	"expected_status": "200"
+  }
