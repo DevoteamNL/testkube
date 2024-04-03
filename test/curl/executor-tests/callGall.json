@@ -3,5 +3,5 @@
 	  "curl",
 	  "https://gall.nl"
 	],
-	"expected_status": "200"
+	"expected_status": "301"
   }
