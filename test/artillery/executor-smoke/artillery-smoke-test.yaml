@@ -1,7 +1,7 @@
 config:
   target: "https://testkube.kubeshop.io/"
   phases:
-  - duration: 60
+  - duration: 180
     arrivalRate: 1
 scenarios:
 - flow:
