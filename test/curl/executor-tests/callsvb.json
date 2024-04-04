@@ -1,0 +1,7 @@
+{
+	"command": [
+	  "curl",
+	  "https://svb.nl"
+	],
+	"expected_status": "301"
+  }
