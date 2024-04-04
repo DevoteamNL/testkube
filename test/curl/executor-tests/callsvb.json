@@ -3,5 +3,5 @@
 	  "curl",
 	  "https://svb.nl"
 	],
-	"expected_status": "301"
+	"expected_status": "302"
   }
